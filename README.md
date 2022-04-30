@@ -1,1 +1,1 @@
-{'version':15,'sanurl':'链接：https://share.weiyun.com/PM4odpsN 密码：je3ffh','url':'链接：https://share.weiyun.com/719wLShO 密码：uw8q82','text':'修复bug3'}
+{'version':17,'sanurl':'链接：https://share.weiyun.com/0rfkJOUf 密码：xk47rp','url':'链接：https://share.weiyun.com/3MtoOzqQ 密码：bg9z3d','text':'修复bug4'}
